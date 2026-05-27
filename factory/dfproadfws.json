@@ -1,0 +1,15 @@
+{
+	"name": "dfproadfws",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e5e401e2-9ea3-499e-a752-94fe1e04bcda",
+		"tenantId": "2129acbe-6a42-4190-a43c-dc378dce2540"
+	}
+}
